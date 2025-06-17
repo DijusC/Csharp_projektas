@@ -1,0 +1,1 @@
+# Tekstinių failų indeksavimo sistema

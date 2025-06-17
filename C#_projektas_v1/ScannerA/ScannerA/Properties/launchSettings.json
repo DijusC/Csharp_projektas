@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ScannerA": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Dijus\\source\\repos\\C#_projektas\\TestFiles A1"
+    }
+  }
+}
